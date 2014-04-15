@@ -16,3 +16,8 @@ QTFileTools/QTSDPGen.tproj/QTSDPGen
 StreamingLoadTool/StreamingLoadTool
 StreamingProxy.tproj/StreamingProxy
 qtpasswd.tproj/qtpasswd
+DarwinStreamingServer
+QTFileTools/QTFileInfo.tproj/QTFileInfo
+QTFileTools/QTFileTest.tproj/QTFileTest
+QTFileTools/QTSampleLister.tproj/QTSampleLister
+QTFileTools/QTTrackInfo.tproj/QTTrackInfo
