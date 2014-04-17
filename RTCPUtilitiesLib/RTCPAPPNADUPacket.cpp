@@ -66,13 +66,20 @@ data: One or more of the following data format blocks may appear
 char RTCPNaduPacket::sRTCPTestBuffer[];
  
 
-RTCPNaduPacket::RTCPNaduPacket(Bool16 debug = false): 
+//RTCPNaduPacket::RTCPNaduPacket(Bool16 debug = false):
+RTCPNaduPacket::RTCPNaduPacket(Bool16 debug):
     RTCPAPPPacket(debug),
     fNaduDataBuffer(NULL),
     fNumBlocks(0)
 {
 }
 
+RTCPNaduPacket::RTCPNaduPacket():
+    RTCPAPPPacket(false),
+    fNaduDataBuffer(NULL),
+    fNumBlocks(0)
+{
+}
 void RTCPNaduPacket::GetTestPacket(StrPtrLen* resultPtr)
 {
 /*

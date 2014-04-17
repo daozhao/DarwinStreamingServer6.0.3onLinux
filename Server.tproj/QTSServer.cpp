@@ -70,7 +70,7 @@
 #include "QTSSAdminModule.h"
 #include "QTSSAccessModule.h"
 #include "QTSSMP3StreamingModule.h"
-#include "QTSSDSAuthModule.h"
+//#include "QTSSDSAuthModule.h"
 #if MEMORY_DEBUGGING
 #include "QTSSWebDebugModule.h"
 #endif
@@ -680,9 +680,9 @@ void    QTSServer::LoadCompiledInModules()
     (void)AddModule(theWebDebug);
 #endif
 
-    QTSSModule* theQTSSDSAuthModule = new QTSSModule("QTSSDSAuthModule");
-    (void)theQTSSDSAuthModule->SetupModule(&sCallbacks, &QTSSDSAuthModule_Main);
-    (void)AddModule(theQTSSDSAuthModule); 
+//    QTSSModule* theQTSSDSAuthModule = new QTSSModule("QTSSDSAuthModule");
+//    (void)theQTSSDSAuthModule->SetupModule(&sCallbacks, &QTSSDSAuthModule_Main);
+//    (void)AddModule(theQTSSDSAuthModule); 
 
     QTSSModule* theQTACCESSmodule = new QTSSModule("QTSSAccessModule");
     (void)theQTACCESSmodule->SetupModule(&sCallbacks, &QTSSAccessModule_Main);

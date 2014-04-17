@@ -1,0 +1,109 @@
+StreamingServer.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+StreamingServer.xcodeproj/project.xcworkspace/xcuserdata/daozhao.xcuserdatad/UserInterfaceState.xcuserstate
+StreamingServer.xcodeproj/project.xcworkspace/xcuserdata/daozhao.xcuserdatad/WorkspaceSettings.xcsettings
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/APICommonCode (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/APIModules.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/APIModules_All_Dynamic.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/APIModules_Dynamic.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/APIModules_Static.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/APIStubLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/AtomicLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/CommonUtilitiesLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/DSS Server.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/DSS.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/DSS_Generic.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/HTTPUtilitiesLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/Libraries.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/MP3Broadcaster.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/OSMemoryLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/OSMemory_Modules (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/PlaylistBroadcaster.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/PrefsSourceLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTBroadcaster.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTFileExternalLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTFileInfo.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTFileLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTFileTest.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTFileTools.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTRTPFileTest.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTRTPGen.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSDPGen.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSS Server.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSS copy.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSS.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSAccessLogModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSAccessLogModule.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSAccessModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSAccessModule.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSAdminModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSAdminModule.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSDSAuthModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSDSAuthModule (Library) DSS.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSDSAuthModule (Library) OSXServer.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSDemoAuthorizationModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSDemoRedirectModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSDemoSMILModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSFileModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSFileModule.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSFilePrivsModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSFlowControlModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSFlowControlModule.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSHomeDirectoryModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSHttpFileModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSLinkApp.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSMP3StreamingModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSPOSIXFileSysModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSPOSIXFileSysModule.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSProxyModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSRTPFileModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSRawFileModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSRefMovieModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSReflectorModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSReflectorModule.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSSpamDefenseModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSWebDebugModule (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSWebDebugModule.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSSWebStatsModule (Bundle).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTSampleLister.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/QTTrackInfo.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/RTCPUtilitiesLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/RTPFileGen.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/RTPMetaInfoLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/RTSPClientLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/SSLeay.bundle.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/SafeDynamicModuleStdLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/SafeInternalStdLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/Server_No_Modules.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/StreamingLoadTool.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/StreamingProxy.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/StreamingProxyServer.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/TestQTFileLib (Library).xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/WebAdmin.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/broadcasterctl.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/qtpasswd.xcscheme
+StreamingServer.xcodeproj/xcuserdata/daozhao.xcuserdatad/xcschemes/xcschememanagement.plist
+*.o
+build.log
+*.swp
+.idea
+*.xo
+*.a
+MP3Broadcaster/MP3Broadcaster
+PlaylistBroadcaster.tproj/PlaylistBroadcaster
+QTFileTools/QTBroadcaster.tproj/QTBroadcaster
+QTFileTools/QTFileInfo.tproj/QTFileInfo
+QTFileTools/QTFileTest.tproj/QTFileTest
+QTFileTools/QTRTPFileTest.tproj/QTRTPFileTest
+QTFileTools/QTRTPGen.tproj/QTRTPGen
+QTFileTools/QTSDPGen.tproj/QTSDPGen
+QTFileTools/QTSampleLister.tproj/QTSampleLister
+QTFileTools/QTTrackInfo.tproj/QTTrackInfo
+APIModules/QTSSDemoAuthorizationModule.bproj/QTSSDemoAuthorizationModule
+APIModules/QTSSHomeDirectoryModule/QTSSHomeDirectoryModule
+APIModules/QTSSRawFileModule.bproj/QTSSRawFileModule
+APIModules/QTSSRefMovieModule/QTSSRefMovieModule
+APIModules/QTSSSpamDefenseModule.bproj/QTSSSpamDefenseModule
+DarwinStreamingServer
+StreamingLoadTool/StreamingLoadTool
+StreamingProxy.tproj/StreamingProxy
+qtpasswd.tproj/qtpasswd

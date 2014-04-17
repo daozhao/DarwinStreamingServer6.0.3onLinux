@@ -33,7 +33,8 @@ CPPFILES = 	../OSMemory_Modules/OSMemory_Modules.cpp \
 			../../APICommonCode/SDPSourceInfo.cpp \
 			../../APICommonCode/SourceInfo.cpp \
 			../../RTPMetaInfoLib/RTPMetaInfoPacket.cpp \
-			QTSSSpamDefenseModule.cpp
+			QTSSSpamDefenseModule.cpp \
+			../../SafeStdLib/DynamicModuleStdLib.cpp 
 
 LIBFILES =	../../CommonUtilitiesLib/libCommonUtilitiesLib.a
 
