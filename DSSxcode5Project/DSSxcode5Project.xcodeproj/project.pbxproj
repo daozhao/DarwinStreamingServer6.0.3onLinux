@@ -256,6 +256,419 @@
 			remoteGlobalIDString = 441FDFE318FF87130056295B;
 			remoteInfo = libCommonUtilitiesLib.a;
 		};
+		444AA30C18FFAC2B002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA30E18FFAC2F002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA31018FFAC35002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA31218FFAC3B002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA31618FFACD2002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA31818FFACD2002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA31E18FFAD67002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA32018FFAD67002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA32618FFAE26002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA32818FFAE26002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA32E18FFAE6A002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA33018FFAE6A002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA33618FFAEC8002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA33818FFAEC8002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA33E18FFB015002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA34018FFB015002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA34618FFB077002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA34818FFB077002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA34E18FFB09B002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA35018FFB09B002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA35618FFB17A002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA35818FFB17A002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA35E18FFB1BF002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA36018FFB1BF002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA36618FFB1E1002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA36818FFB1E1002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA36E18FFB207002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA37018FFB207002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA37618FFB235002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA37818FFB235002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA37E18FFB264002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA38018FFB264002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA38618FFB29B002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA38818FFB29B002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA38E18FFB308002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA39018FFB308002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA39618FFB35D002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA39818FFB35D002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA39E18FFB38D002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA3A018FFB38D002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA3A618FFB60E002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFE318FF87130056295B;
+			remoteInfo = libCommonUtilitiesLib.a;
+		};
+		444AA3A818FFB60E002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 441FDFDD18FF86900056295B;
+			remoteInfo = libQTFileLib.a;
+		};
+		444AA3AC18FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA30818FFAC13002FECD7;
+			remoteInfo = QTFileTools/QTBroadcaster.tproj;
+		};
+		444AA3AE18FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA31418FFACD2002FECD7;
+			remoteInfo = QTFileTools/QTFileInfo.tproj;
+		};
+		444AA3B018FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA31C18FFAD67002FECD7;
+			remoteInfo = QTFileTools/QTFileTest.tproj;
+		};
+		444AA3B218FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA32418FFAE26002FECD7;
+			remoteInfo = QTFileTools/QTRTPFileTest.tproj;
+		};
+		444AA3B418FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA32C18FFAE6A002FECD7;
+			remoteInfo = QTFileTools/QTRTPGen.tproj;
+		};
+		444AA3B618FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA33418FFAEC8002FECD7;
+			remoteInfo = QTFileTools/QTSampleLister.tproj;
+		};
+		444AA3B818FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA30418FFAB9D002FECD7;
+			remoteInfo = QTFileTools/QTSDPGen.tproj;
+		};
+		444AA3BA18FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA33C18FFB015002FECD7;
+			remoteInfo = QTFileTools/QTTrackInfo.tproj;
+		};
+		444AA3BE18FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA34C18FFB09B002FECD7;
+			remoteInfo = StreamingProxy.tproj;
+		};
+		444AA3C018FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA35418FFB17A002FECD7;
+			remoteInfo = qtpasswd.tproj;
+		};
+		444AA3C218FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA35C18FFB1BF002FECD7;
+			remoteInfo = MP3Broadcaster;
+		};
+		444AA3C418FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA36418FFB1E1002FECD7;
+			remoteInfo = PlaylistBroadcaster.tproj;
+		};
+		444AA3C818FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA37418FFB235002FECD7;
+			remoteInfo = APIModules/QTSSDemoAuthorizationModule.bproj;
+		};
+		444AA3CC18FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA38418FFB29B002FECD7;
+			remoteInfo = APIModules/QTSSHomeDirectoryModule;
+		};
+		444AA3CE18FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA38C18FFB308002FECD7;
+			remoteInfo = APIModules/QTSSRawFileModule.bproj;
+		};
+		444AA3D018FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA39418FFB35D002FECD7;
+			remoteInfo = APIModules/QTSSRefMovieModule;
+		};
+		444AA3D218FFB624002FECD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 441FDC0A18FF76B80056295B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 444AA39C18FFB38D002FECD7;
+			remoteInfo = APIModules/QTSSSpamDefenseModule.bproj;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -2153,7 +2566,7 @@
 		};
 		441FDFDD18FF86900056295B /* libQTFileLib.a */ = {
 			isa = PBXLegacyTarget;
-			buildArgumentsString = "$(ACTION) -f Makefile.POSIX";
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
 			buildConfigurationList = 441FDFDE18FF86900056295B /* Build configuration list for PBXLegacyTarget "libQTFileLib.a" */;
 			buildPhases = (
 			);
@@ -2167,7 +2580,7 @@
 		};
 		441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */ = {
 			isa = PBXLegacyTarget;
-			buildArgumentsString = "$(ACTION) -f Makefile.POSIX";
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
 			buildConfigurationList = 441FDFE418FF87130056295B /* Build configuration list for PBXLegacyTarget "libCommonUtilitiesLib.a" */;
 			buildPhases = (
 			);
@@ -2178,6 +2591,359 @@
 			name = libCommonUtilitiesLib.a;
 			passBuildSettingsInEnvironment = 1;
 			productName = libCommonUtilitiesLib.a;
+		};
+		444AA30418FFAB9D002FECD7 /* QTFileTools/QTSDPGen.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA30518FFAB9D002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTSDPGen.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../QTFileTools/QTSDPGen.tproj/;
+			dependencies = (
+				444AA30F18FFAC2F002FECD7 /* PBXTargetDependency */,
+				444AA30D18FFAC2B002FECD7 /* PBXTargetDependency */,
+			);
+			name = QTFileTools/QTSDPGen.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA30818FFAC13002FECD7 /* QTFileTools/QTBroadcaster.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA30918FFAC13002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTBroadcaster.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../QTFileTools/QTBroadcaster.tproj/;
+			dependencies = (
+				444AA31318FFAC3B002FECD7 /* PBXTargetDependency */,
+				444AA31118FFAC35002FECD7 /* PBXTargetDependency */,
+			);
+			name = QTFileTools/QTBroadcaster.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA31418FFACD2002FECD7 /* QTFileTools/QTFileInfo.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA31918FFACD2002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTFileInfo.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../QTFileTools/QTFileInfo.tproj/;
+			dependencies = (
+				444AA31518FFACD2002FECD7 /* PBXTargetDependency */,
+				444AA31718FFACD2002FECD7 /* PBXTargetDependency */,
+			);
+			name = QTFileTools/QTFileInfo.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA31C18FFAD67002FECD7 /* QTFileTools/QTFileTest.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA32118FFAD67002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTFileTest.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../QTFileTools/QTFileTest.tproj/;
+			dependencies = (
+				444AA31D18FFAD67002FECD7 /* PBXTargetDependency */,
+				444AA31F18FFAD67002FECD7 /* PBXTargetDependency */,
+			);
+			name = QTFileTools/QTFileTest.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA32418FFAE26002FECD7 /* QTFileTools/QTRTPFileTest.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA32918FFAE26002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTRTPFileTest.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../QTFileTools/QTRTPFileTest.tproj/;
+			dependencies = (
+				444AA32518FFAE26002FECD7 /* PBXTargetDependency */,
+				444AA32718FFAE26002FECD7 /* PBXTargetDependency */,
+			);
+			name = QTFileTools/QTRTPFileTest.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA32C18FFAE6A002FECD7 /* QTFileTools/QTRTPGen.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA33118FFAE6A002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTRTPGen.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../QTFileTools/QTRTPGen.tproj/;
+			dependencies = (
+				444AA32D18FFAE6A002FECD7 /* PBXTargetDependency */,
+				444AA32F18FFAE6A002FECD7 /* PBXTargetDependency */,
+			);
+			name = QTFileTools/QTRTPGen.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA33418FFAEC8002FECD7 /* QTFileTools/QTSampleLister.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA33918FFAEC8002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTSampleLister.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../QTFileTools/QTSampleLister.tproj/;
+			dependencies = (
+				444AA33518FFAEC8002FECD7 /* PBXTargetDependency */,
+				444AA33718FFAEC8002FECD7 /* PBXTargetDependency */,
+			);
+			name = QTFileTools/QTSampleLister.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA33C18FFB015002FECD7 /* QTFileTools/QTTrackInfo.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA34118FFB015002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTTrackInfo.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../QTFileTools/QTTrackInfo.tproj/;
+			dependencies = (
+				444AA33D18FFB015002FECD7 /* PBXTargetDependency */,
+				444AA33F18FFB015002FECD7 /* PBXTargetDependency */,
+			);
+			name = QTFileTools/QTTrackInfo.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA34418FFB077002FECD7 /* StreamingLoadTool */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA34918FFB077002FECD7 /* Build configuration list for PBXLegacyTarget "StreamingLoadTool" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../StreamingLoadTool/;
+			dependencies = (
+				444AA34518FFB077002FECD7 /* PBXTargetDependency */,
+				444AA34718FFB077002FECD7 /* PBXTargetDependency */,
+			);
+			name = StreamingLoadTool;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA34C18FFB09B002FECD7 /* StreamingProxy.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA35118FFB09B002FECD7 /* Build configuration list for PBXLegacyTarget "StreamingProxy.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../StreamingProxy.tproj/;
+			dependencies = (
+				444AA34D18FFB09B002FECD7 /* PBXTargetDependency */,
+				444AA34F18FFB09B002FECD7 /* PBXTargetDependency */,
+			);
+			name = StreamingProxy.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA35418FFB17A002FECD7 /* qtpasswd.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA35918FFB17A002FECD7 /* Build configuration list for PBXLegacyTarget "qtpasswd.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../qtpasswd.tproj/;
+			dependencies = (
+				444AA35518FFB17A002FECD7 /* PBXTargetDependency */,
+				444AA35718FFB17A002FECD7 /* PBXTargetDependency */,
+			);
+			name = qtpasswd.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA35C18FFB1BF002FECD7 /* MP3Broadcaster */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA36118FFB1BF002FECD7 /* Build configuration list for PBXLegacyTarget "MP3Broadcaster" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../MP3Broadcaster/;
+			dependencies = (
+				444AA35D18FFB1BF002FECD7 /* PBXTargetDependency */,
+				444AA35F18FFB1BF002FECD7 /* PBXTargetDependency */,
+			);
+			name = MP3Broadcaster;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA36418FFB1E1002FECD7 /* PlaylistBroadcaster.tproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA36918FFB1E1002FECD7 /* Build configuration list for PBXLegacyTarget "PlaylistBroadcaster.tproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../PlaylistBroadcaster.tproj/;
+			dependencies = (
+				444AA36518FFB1E1002FECD7 /* PBXTargetDependency */,
+				444AA36718FFB1E1002FECD7 /* PBXTargetDependency */,
+			);
+			name = PlaylistBroadcaster.tproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA36C18FFB207002FECD7 /* HTTPUtilitiesLib */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA37118FFB207002FECD7 /* Build configuration list for PBXLegacyTarget "HTTPUtilitiesLib" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../HTTPUtilitiesLib/;
+			dependencies = (
+				444AA36D18FFB207002FECD7 /* PBXTargetDependency */,
+				444AA36F18FFB207002FECD7 /* PBXTargetDependency */,
+			);
+			name = HTTPUtilitiesLib;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA37418FFB235002FECD7 /* APIModules/QTSSDemoAuthorizationModule.bproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA37918FFB235002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSDemoAuthorizationModule.bproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../APIModules/QTSSDemoAuthorizationModule.bproj/;
+			dependencies = (
+				444AA37518FFB235002FECD7 /* PBXTargetDependency */,
+				444AA37718FFB235002FECD7 /* PBXTargetDependency */,
+			);
+			name = APIModules/QTSSDemoAuthorizationModule.bproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA37C18FFB264002FECD7 /* APIModules/QTSSDemoRedirectModule.bproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA38118FFB264002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSDemoRedirectModule.bproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../APIModules/QTSSDemoRedirectModule.bproj/;
+			dependencies = (
+				444AA37D18FFB264002FECD7 /* PBXTargetDependency */,
+				444AA37F18FFB264002FECD7 /* PBXTargetDependency */,
+			);
+			name = APIModules/QTSSDemoRedirectModule.bproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA38418FFB29B002FECD7 /* APIModules/QTSSHomeDirectoryModule */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA38918FFB29B002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSHomeDirectoryModule" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../APIModules/QTSSHomeDirectoryModule/;
+			dependencies = (
+				444AA38518FFB29B002FECD7 /* PBXTargetDependency */,
+				444AA38718FFB29B002FECD7 /* PBXTargetDependency */,
+			);
+			name = APIModules/QTSSHomeDirectoryModule;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA38C18FFB308002FECD7 /* APIModules/QTSSRawFileModule.bproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA39118FFB308002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSRawFileModule.bproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../APIModules/QTSSRawFileModule.bproj/;
+			dependencies = (
+				444AA38D18FFB308002FECD7 /* PBXTargetDependency */,
+				444AA38F18FFB308002FECD7 /* PBXTargetDependency */,
+			);
+			name = APIModules/QTSSRawFileModule.bproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA39418FFB35D002FECD7 /* APIModules/QTSSRefMovieModule */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA39918FFB35D002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSRefMovieModule" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../APIModules/QTSSRawFileModule.bproj/;
+			dependencies = (
+				444AA39518FFB35D002FECD7 /* PBXTargetDependency */,
+				444AA39718FFB35D002FECD7 /* PBXTargetDependency */,
+			);
+			name = APIModules/QTSSRefMovieModule;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA39C18FFB38D002FECD7 /* APIModules/QTSSSpamDefenseModule.bproj */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA3A118FFB38D002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSSpamDefenseModule.bproj" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../APIModules/QTSSSpamDefenseModule.bproj/;
+			dependencies = (
+				444AA39D18FFB38D002FECD7 /* PBXTargetDependency */,
+				444AA39F18FFB38D002FECD7 /* PBXTargetDependency */,
+			);
+			name = APIModules/QTSSSpamDefenseModule.bproj;
+			passBuildSettingsInEnvironment = 1;
+			productName = libCommonUtilitiesLib.a;
+		};
+		444AA3A418FFB60E002FECD7 /* BuildALL */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-f Makefile.POSIX $(ACTION) ";
+			buildConfigurationList = 444AA3A918FFB60E002FECD7 /* Build configuration list for PBXLegacyTarget "BuildALL" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = ../;
+			dependencies = (
+				444AA3AD18FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3AF18FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3B118FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3B318FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3B518FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3B718FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3B918FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3BB18FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3BF18FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3C118FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3C318FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3C518FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3C918FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3CD18FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3CF18FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3D118FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3D318FFB624002FECD7 /* PBXTargetDependency */,
+				444AA3A518FFB60E002FECD7 /* PBXTargetDependency */,
+				444AA3A718FFB60E002FECD7 /* PBXTargetDependency */,
+			);
+			name = BuildALL;
+			passBuildSettingsInEnvironment = 1;
+			productName = DarwinStreamingServer;
 		};
 /* End PBXLegacyTarget section */
 
@@ -2243,6 +3009,27 @@
 				441FDFD918FF80E20056295B /* DarwinStreamingServer */,
 				441FDFDD18FF86900056295B /* libQTFileLib.a */,
 				441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */,
+				444AA30818FFAC13002FECD7 /* QTFileTools/QTBroadcaster.tproj */,
+				444AA31418FFACD2002FECD7 /* QTFileTools/QTFileInfo.tproj */,
+				444AA31C18FFAD67002FECD7 /* QTFileTools/QTFileTest.tproj */,
+				444AA32418FFAE26002FECD7 /* QTFileTools/QTRTPFileTest.tproj */,
+				444AA32C18FFAE6A002FECD7 /* QTFileTools/QTRTPGen.tproj */,
+				444AA33418FFAEC8002FECD7 /* QTFileTools/QTSampleLister.tproj */,
+				444AA30418FFAB9D002FECD7 /* QTFileTools/QTSDPGen.tproj */,
+				444AA33C18FFB015002FECD7 /* QTFileTools/QTTrackInfo.tproj */,
+				444AA34418FFB077002FECD7 /* StreamingLoadTool */,
+				444AA34C18FFB09B002FECD7 /* StreamingProxy.tproj */,
+				444AA35418FFB17A002FECD7 /* qtpasswd.tproj */,
+				444AA35C18FFB1BF002FECD7 /* MP3Broadcaster */,
+				444AA36418FFB1E1002FECD7 /* PlaylistBroadcaster.tproj */,
+				444AA36C18FFB207002FECD7 /* HTTPUtilitiesLib */,
+				444AA37418FFB235002FECD7 /* APIModules/QTSSDemoAuthorizationModule.bproj */,
+				444AA37C18FFB264002FECD7 /* APIModules/QTSSDemoRedirectModule.bproj */,
+				444AA38418FFB29B002FECD7 /* APIModules/QTSSHomeDirectoryModule */,
+				444AA38C18FFB308002FECD7 /* APIModules/QTSSRawFileModule.bproj */,
+				444AA39418FFB35D002FECD7 /* APIModules/QTSSRefMovieModule */,
+				444AA39C18FFB38D002FECD7 /* APIModules/QTSSSpamDefenseModule.bproj */,
+				444AA3A418FFB60E002FECD7 /* BuildALL */,
 			);
 		};
 /* End PBXProject section */
@@ -2503,6 +3290,301 @@
 			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
 			targetProxy = 441FDFE718FF87580056295B /* PBXContainerItemProxy */;
 		};
+		444AA30D18FFAC2B002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA30C18FFAC2B002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA30F18FFAC2F002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA30E18FFAC2F002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA31118FFAC35002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA31018FFAC35002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA31318FFAC3B002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA31218FFAC3B002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA31518FFACD2002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA31618FFACD2002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA31718FFACD2002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA31818FFACD2002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA31D18FFAD67002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA31E18FFAD67002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA31F18FFAD67002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA32018FFAD67002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA32518FFAE26002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA32618FFAE26002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA32718FFAE26002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA32818FFAE26002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA32D18FFAE6A002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA32E18FFAE6A002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA32F18FFAE6A002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA33018FFAE6A002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA33518FFAEC8002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA33618FFAEC8002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA33718FFAEC8002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA33818FFAEC8002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA33D18FFB015002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA33E18FFB015002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA33F18FFB015002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA34018FFB015002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA34518FFB077002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA34618FFB077002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA34718FFB077002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA34818FFB077002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA34D18FFB09B002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA34E18FFB09B002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA34F18FFB09B002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA35018FFB09B002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA35518FFB17A002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA35618FFB17A002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA35718FFB17A002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA35818FFB17A002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA35D18FFB1BF002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA35E18FFB1BF002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA35F18FFB1BF002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA36018FFB1BF002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA36518FFB1E1002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA36618FFB1E1002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA36718FFB1E1002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA36818FFB1E1002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA36D18FFB207002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA36E18FFB207002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA36F18FFB207002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA37018FFB207002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA37518FFB235002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA37618FFB235002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA37718FFB235002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA37818FFB235002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA37D18FFB264002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA37E18FFB264002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA37F18FFB264002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA38018FFB264002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA38518FFB29B002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA38618FFB29B002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA38718FFB29B002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA38818FFB29B002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA38D18FFB308002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA38E18FFB308002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA38F18FFB308002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA39018FFB308002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA39518FFB35D002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA39618FFB35D002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA39718FFB35D002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA39818FFB35D002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA39D18FFB38D002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA39E18FFB38D002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA39F18FFB38D002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA3A018FFB38D002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3A518FFB60E002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFE318FF87130056295B /* libCommonUtilitiesLib.a */;
+			targetProxy = 444AA3A618FFB60E002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3A718FFB60E002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 441FDFDD18FF86900056295B /* libQTFileLib.a */;
+			targetProxy = 444AA3A818FFB60E002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3AD18FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA30818FFAC13002FECD7 /* QTFileTools/QTBroadcaster.tproj */;
+			targetProxy = 444AA3AC18FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3AF18FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA31418FFACD2002FECD7 /* QTFileTools/QTFileInfo.tproj */;
+			targetProxy = 444AA3AE18FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3B118FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA31C18FFAD67002FECD7 /* QTFileTools/QTFileTest.tproj */;
+			targetProxy = 444AA3B018FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3B318FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA32418FFAE26002FECD7 /* QTFileTools/QTRTPFileTest.tproj */;
+			targetProxy = 444AA3B218FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3B518FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA32C18FFAE6A002FECD7 /* QTFileTools/QTRTPGen.tproj */;
+			targetProxy = 444AA3B418FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3B718FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA33418FFAEC8002FECD7 /* QTFileTools/QTSampleLister.tproj */;
+			targetProxy = 444AA3B618FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3B918FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA30418FFAB9D002FECD7 /* QTFileTools/QTSDPGen.tproj */;
+			targetProxy = 444AA3B818FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3BB18FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA33C18FFB015002FECD7 /* QTFileTools/QTTrackInfo.tproj */;
+			targetProxy = 444AA3BA18FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3BF18FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA34C18FFB09B002FECD7 /* StreamingProxy.tproj */;
+			targetProxy = 444AA3BE18FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3C118FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA35418FFB17A002FECD7 /* qtpasswd.tproj */;
+			targetProxy = 444AA3C018FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3C318FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA35C18FFB1BF002FECD7 /* MP3Broadcaster */;
+			targetProxy = 444AA3C218FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3C518FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA36418FFB1E1002FECD7 /* PlaylistBroadcaster.tproj */;
+			targetProxy = 444AA3C418FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3C918FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA37418FFB235002FECD7 /* APIModules/QTSSDemoAuthorizationModule.bproj */;
+			targetProxy = 444AA3C818FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3CD18FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA38418FFB29B002FECD7 /* APIModules/QTSSHomeDirectoryModule */;
+			targetProxy = 444AA3CC18FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3CF18FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA38C18FFB308002FECD7 /* APIModules/QTSSRawFileModule.bproj */;
+			targetProxy = 444AA3CE18FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3D118FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA39418FFB35D002FECD7 /* APIModules/QTSSRefMovieModule */;
+			targetProxy = 444AA3D018FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
+		444AA3D318FFB624002FECD7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 444AA39C18FFB38D002FECD7 /* APIModules/QTSSSpamDefenseModule.bproj */;
+			targetProxy = 444AA3D218FFB624002FECD7 /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
@@ -2720,6 +3802,531 @@
 			};
 			name = Release;
 		};
+		444AA30618FFAB9D002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA30718FFAB9D002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA30A18FFAC13002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "QTFileTools/QTSDPGen copy";
+			};
+			name = Debug;
+		};
+		444AA30B18FFAC13002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "QTFileTools/QTSDPGen copy";
+			};
+			name = Release;
+		};
+		444AA31A18FFACD2002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA31B18FFACD2002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA32218FFAD67002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA32318FFAD67002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA32A18FFAE26002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA32B18FFAE26002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA33218FFAE6A002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA33318FFAE6A002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA33A18FFAEC8002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA33B18FFAEC8002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA34218FFB015002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA34318FFB015002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA34A18FFB077002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA34B18FFB077002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA35218FFB09B002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA35318FFB09B002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA35A18FFB17A002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA35B18FFB17A002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA36218FFB1BF002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA36318FFB1BF002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA36A18FFB1E1002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA36B18FFB1E1002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA37218FFB207002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA37318FFB207002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA37A18FFB235002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA37B18FFB235002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA38218FFB264002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA38318FFB264002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA38A18FFB29B002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA38B18FFB29B002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA39218FFB308002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA39318FFB308002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA39A18FFB35D002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA39B18FFB35D002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA3A218FFB38D002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		444AA3A318FFB38D002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		444AA3AA18FFB60E002FECD7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "DarwinStreamingServer copy";
+			};
+			name = Debug;
+		};
+		444AA3AB18FFB60E002FECD7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "DarwinStreamingServer copy";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -2773,6 +4380,195 @@
 			buildConfigurations = (
 				441FDFE518FF87130056295B /* Debug */,
 				441FDFE618FF87130056295B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA30518FFAB9D002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTSDPGen.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA30618FFAB9D002FECD7 /* Debug */,
+				444AA30718FFAB9D002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA30918FFAC13002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTBroadcaster.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA30A18FFAC13002FECD7 /* Debug */,
+				444AA30B18FFAC13002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA31918FFACD2002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTFileInfo.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA31A18FFACD2002FECD7 /* Debug */,
+				444AA31B18FFACD2002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA32118FFAD67002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTFileTest.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA32218FFAD67002FECD7 /* Debug */,
+				444AA32318FFAD67002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA32918FFAE26002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTRTPFileTest.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA32A18FFAE26002FECD7 /* Debug */,
+				444AA32B18FFAE26002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA33118FFAE6A002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTRTPGen.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA33218FFAE6A002FECD7 /* Debug */,
+				444AA33318FFAE6A002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA33918FFAEC8002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTSampleLister.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA33A18FFAEC8002FECD7 /* Debug */,
+				444AA33B18FFAEC8002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA34118FFB015002FECD7 /* Build configuration list for PBXLegacyTarget "QTFileTools/QTTrackInfo.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA34218FFB015002FECD7 /* Debug */,
+				444AA34318FFB015002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA34918FFB077002FECD7 /* Build configuration list for PBXLegacyTarget "StreamingLoadTool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA34A18FFB077002FECD7 /* Debug */,
+				444AA34B18FFB077002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA35118FFB09B002FECD7 /* Build configuration list for PBXLegacyTarget "StreamingProxy.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA35218FFB09B002FECD7 /* Debug */,
+				444AA35318FFB09B002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA35918FFB17A002FECD7 /* Build configuration list for PBXLegacyTarget "qtpasswd.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA35A18FFB17A002FECD7 /* Debug */,
+				444AA35B18FFB17A002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA36118FFB1BF002FECD7 /* Build configuration list for PBXLegacyTarget "MP3Broadcaster" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA36218FFB1BF002FECD7 /* Debug */,
+				444AA36318FFB1BF002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA36918FFB1E1002FECD7 /* Build configuration list for PBXLegacyTarget "PlaylistBroadcaster.tproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA36A18FFB1E1002FECD7 /* Debug */,
+				444AA36B18FFB1E1002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA37118FFB207002FECD7 /* Build configuration list for PBXLegacyTarget "HTTPUtilitiesLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA37218FFB207002FECD7 /* Debug */,
+				444AA37318FFB207002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA37918FFB235002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSDemoAuthorizationModule.bproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA37A18FFB235002FECD7 /* Debug */,
+				444AA37B18FFB235002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA38118FFB264002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSDemoRedirectModule.bproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA38218FFB264002FECD7 /* Debug */,
+				444AA38318FFB264002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA38918FFB29B002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSHomeDirectoryModule" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA38A18FFB29B002FECD7 /* Debug */,
+				444AA38B18FFB29B002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA39118FFB308002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSRawFileModule.bproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA39218FFB308002FECD7 /* Debug */,
+				444AA39318FFB308002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA39918FFB35D002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSRefMovieModule" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA39A18FFB35D002FECD7 /* Debug */,
+				444AA39B18FFB35D002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA3A118FFB38D002FECD7 /* Build configuration list for PBXLegacyTarget "APIModules/QTSSSpamDefenseModule.bproj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA3A218FFB38D002FECD7 /* Debug */,
+				444AA3A318FFB38D002FECD7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		444AA3A918FFB60E002FECD7 /* Build configuration list for PBXLegacyTarget "BuildALL" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				444AA3AA18FFB60E002FECD7 /* Debug */,
+				444AA3AB18FFB60E002FECD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
